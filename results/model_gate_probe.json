@@ -1,0 +1,24 @@
+[
+  {
+    "id": "A07",
+    "verdict": "驳回",
+    "model": {
+      "verdict": "驳回",
+      "violations": [
+        "R15"
+      ],
+      "missed": [],
+      "reply": "口头意见不构成归档依据，须按R15规程执行，请提供系统内正式签认凭证。"
+    }
+  },
+  {
+    "id": "V02",
+    "verdict": "通过",
+    "model": {
+      "verdict": "通过",
+      "violations": [],
+      "missed": [],
+      "reply": "资料要素齐全，日期逻辑与签认均符合规程，予以归档。"
+    }
+  }
+]
